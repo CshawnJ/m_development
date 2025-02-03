@@ -1,0 +1,19 @@
+{
+  "name": "m_development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array_objectExample.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CshawnJ/m_development.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CshawnJ/m_development/issues"
+  },
+  "homepage": "https://github.com/CshawnJ/m_development#readme"
+}
