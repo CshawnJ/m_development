@@ -71,7 +71,7 @@ const styles = StyleSheet.create({
 
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: 'lightgray',
     paddingTop: Platform.OS === 'android' ? 25 : 0,
     paddingHorizontal: 20,
   },
